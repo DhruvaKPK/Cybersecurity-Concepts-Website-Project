@@ -1,0 +1,35 @@
+body{
+    background-image: url('https://i.sstatic.net/kx8MT.gif');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+header {
+    background-color: rgba(0, 123, 255, 0.8); /* Semi-transparent for better text visibility */
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.8); /* Semi-transparent for better text visibility */
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.9); /* Slightly transparent card for better visibility */
+    color: #000;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #000; /* Change navbar link color */
+}
+
+.navbar-light .navbar-brand {
+    color: #000; /* Change navbar brand color */
+}
+
+h1, h5 {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Text shadow for better visibility */
+}
